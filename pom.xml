@@ -63,21 +63,7 @@
 
 		</plugins>
 	</build>
-	
-	
-	
-  <modules>
-	<module>monappli-domaine</module>
-    <module>monappli-service</module>
-    <module>monappli-dao</module>
-    <module>monappli-web</module>
-  </modules>
-</project>
-			
-			
-		</plugins>
-	</build>
-	
+		
   <modules>
 	<module>monappli-domaine</module>
     <module>monappli-service</module>
